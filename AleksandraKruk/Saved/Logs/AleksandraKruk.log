@@ -1874,3 +1874,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.24-15.02.45:322][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.01.24-15.02.45:330][163]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
 [2020.01.24-15.02.45:367][164]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.01.24-15.05.52:978][286]LogSlate: FSceneViewport::OnFocusLost() reason 5
